@@ -5,17 +5,7 @@
 
 ---
 
-## Team
 
-Developed by a team of five interns:
-
-- Disha Jain
-- Shourya Mishra
-- Rahul Agarwal
-- **Suryanshi Singh**
-- Arinjay Jain
-
----
 
 ## The Problem
 
